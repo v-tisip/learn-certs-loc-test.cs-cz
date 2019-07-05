@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Microsoft Azure Administrator
+metadata:
+  title: 'Exam AZ-103: Microsoft Azure Administrator'
+  description: 'Exam AZ-103: Microsoft Azure Administrator'
+uid: exam.az-103
+displayName: AZ-103
+summary: |
+   Starting on May 1, 2019, you only need to pass Exam AZ-103 to earn this certification. This new exam combines the skills covered in AZ-100 and AZ-101 (which retired on May 1, 2019), with the majority of the new exam coming from AZ-100.
+   
+   Candidates for this exam are Azure Administrators who manage cloud services that span storage, security, networking, and compute cloud capabilities. Candidates have a deep understanding of each service across the full IT lifecycle, and take requests for infrastructure services, applications, and environments. They make recommendations on services to use for optimal performance and scale, as well as provision, size, monitor, and adjust resources as appropriate.
+   
+   Candidates for this exam should have proficiency in using PowerShell, the Command Line Interface, Azure Portal, ARM templates, operating systems, virtualization, cloud infrastructure, storage structures, and networking.
+   
+subTitle: Starting on May 1, 2019, you only need to pass Exam AZ-103 to earn this certification. This new exam combines the skills covered in AZ-100 and AZ-101 (which retired on May 1, 2019), with the majority of the new exam coming from AZ-100. This exam measures your ability to accomplish the following technical tasks&#58; manage Azure subscriptions and resources; implement and manage storage; deploy and manage virtual machines (VMs); configure and manage virtual networks; and manage identities.
+iconUrl: /media/learn/certification/exam.svg
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=AZ-103&examname=Exam%20AZ-103%3A%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Flearning%2Fexam-az-103.aspx
+langs:
+- English
+- Japanese
+- Chinese (Simplified)
+- Korean
+levels:
+- beginner
+skills:
+- Manage Azure subscriptions and resources
+- Implement and manage storage
+- Deploy and manage virtual machines (VMs)
+- Configure and manage virtual networks
+- Manage identities
+roles:
+- developer
+- administrator
+products:
+- azure
+relatedExams:
+- uid: exam.az-102
+courses:
+- uid: course.ms-100t03
+paths:
+- uid: learn-xamarin.customize-your-xamarin-forms-apps
+relatedCertifications:
+- related:
+    uid: certification.azure-administrator-associate
+resources:
+- title: Guides to Role-based Certifications
+  description: Explore all certifications in a concise certification guide or the Role-based Certification Roadmap poster.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Training guide
+  description: 'Discover training resources to become a Microsoft Certified: Azure Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay

@@ -1,0 +1,109 @@
+### YamlMime:Course
+title: Deploying and Managing Virtual Machines
+metadata:
+  title: 'Course AZ-100T03-A: Deploying and Managing Virtual Machines'
+  description: 'Course AZ-100T03-A: Deploying and Managing Virtual Machines'
+uid: course.az-100t03
+courseNumber: 'AZ-100T03-A'
+timeToComplete:
+  days: 1
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explain virtual machine usage cases, storage options, pricing, operating systems, networking capabilities, and general planning considerations.
+- skill: Create Windows virtual machines in the Azure Portal, with Azure PowerShell, or using ARM Templates.
+- skill: Deploy custom server images and Linux virtual machines. 
+- skill: Configure virtual machine networking and storage options.
+- skill: Implement virtual machine high availability, scalability, and custom scripts extensions. 
+- skill: Backup, restore, and monitor virtual machines..
+learningPartnersLink: https://www.microsoft.com/en-us/learning/partners.aspx
+langs:
+- English
+levels:
+- intermediate
+roles:
+- administrator
+relatedExams:
+- uid: exam.az-100
+summary: |
+  This course teaches IT Professionals how to create and manage virtual machines as part of an Infrastructure as a Service (IaaS) computing infrastructure. Students learn how to assess their on-premises environment for virtual machine readiness in preparation for moving resources to the cloud, including sizing, pricing, and design considerations.
+  
+  Students also learn how to create and deploy virtual machines in Azure, using the Azure portal, PowerShell, and ARM templates. The course includes instruction on deploying custom images and Linux virtual machines. Students also learn how to configure the networking and storage components of virtual machines. Deploying highly available virtual machines is critical in the light of planned and unplanned events, and students learn how to use availability sets to ensure that virtual machine resources are available during downtime. Students also learn how to use extensions and Desired State Configuration (DSC) for post deployment automation and configuration tasks.
+  
+  Finally, students learn how to perform virtual machine backups, and to use Azure’s monitoring capabilities to collect, view, and analyze virtual machine diagnostic and log data.
+  
+  #### Audience profile
+  This course is for Azure Administrators. Azure Administrators manage the cloud services that span storage, networking, and compute cloud capabilities, with a deep understanding of each service across the full IT lifecycle. They take end-user requests for new cloud applications and make recommendations on services to use for optimal performance and scale, as well as provision, size, monitor and adjust as appropriate. This role requires communicating and coordinating with vendors.  Azure Administrators use the Azure Portal and as they become more proficient they use PowerShell and the Command Line Interface.
+prerequisitesSection: |
+  Successful Azure Administrators start this role with experience on operating systems, virtualization, cloud infrastructure, storage structures, and networking.
+outlineSection: |
+  ### Module 1: Overview of Azure Machines
+  In this module, you’ll will be introduced to Azure virtual machines. What are virtual machines and what operating systems are supported? How can you determine if your existing virtual machines can be supported in Azure? What pricing and sizing options are available?.
+  #### Lessons
+  - Azure Virtual Machines Overview
+  - Planning Considerations
+  
+  After completing this module, students will be able to&#58;
+  - Explain virtual machine usage cases, storage options, pricing, operating systems, networking capabilities, and general planning considerations.
+
+  ### Module 2: Creating Virtual Machines
+  In this module, you will learn how to create and configure Windows virtual machines. You will practice in the Azure portal, in Azure PowerShell, and with ARM templates.
+  #### Lessons
+  - Overview of the Virtual Machine Creation Overview
+  - Creating Virtual Machines in the Azure Portal
+  - Creating Virtual Machines (PowerShell)
+  - Creating Virtual Machines using ARM Templates
+  
+  After completing this module, students will be able to&#58;
+    - Create Windows virtual machines in the Azure Portal, with Azure PowerShell, or using ARM Templates.
+  
+  ### Module 3: Deploying Virtual Machine Images
+  In this module, you will learn how to create custom virtual machines in Azure. For example, deploying a server image that is in your on-premises datacenter. You will also learn how to create and connect to Linux virtual machines.
+  #### Lessons
+  - Deploying Custom Images
+  - Deploying Linux Virtual Machines
+  
+  After completing this module, students will be able to&#58;
+  - Deploy custom server images and Linux virtual machines.
+
+  ### Module 4: Configuring Virtual Machines
+  In this module, you will learn about the two main configuration areas for virtual machines&#58; networking and storage. In the networking lesson, we will cover IP addressing, network interfaces, and network security groups. In the storage lesson, we will cover virtual machine disks, managed disks, attaching/detaching disks, and uploading disks.
+  #### Lessons
+  - Overview of Virtual Machine Configuration
+  - Virtual Machine Networking
+  - Virtual Machine Storage
+  
+  After completing this module, students will be able to&#58;
+  - Configure virtual machine networking and storage options.
+  
+  ### Module 5: Configuring Availability and Extensibility
+  In this module, you will learn how to keep your virtual machines highly available with update and fault domains, and availability sets. You will also learn how to use scale sets to increase and decrease the number of the virtual machines as the workload changes. Lastly, virtual machines can be extended through custom scripts and Desired State Configuration.
+  #### Lessons
+  - Virtual Machine Availability
+  - Virtual Machine Scalability
+  - Applying Virtual Machine Extensions
+  
+  After completing this module, students will be able to&#58;
+  - Implement virtual machine high availability, scalability, and custom scripts extensions. 
+  
+  ### Module 6: Managing and Monitoring Virtual Machines
+  In this module, you will learn the very important tasks of backing up your virtual machines and monitoring their overall health. You will practice backing up and restoring virtual machines. You will learn about monitoring, diagnostics, and Azure Advisor.
+  #### Lessons
+  - Backup and Restore
+  - Monitoring Virtual Machines
+  
+  After completing this module, students will be able to&#58;
+  - Backup, restore, and monitor virtual machines.
+  
+  ### Module 7: Lab - Deploy and Manage Virtual Machines
+  This module is provided to give you hands-on experience with the information provided in the course.
+  #### Lab : Deploy and Manage Virtual Machines
+  - Deploy virtual machines.
+  - Configure networking setting for virtual machines.
+  - Configure Azure virtual machine scale sets.
+  
+  After completing this module, students will be able to&#58;
+  - Deploy Azure VMs by using the Azure portal, Azure PowerShell, and Azure Resource Manager templates.
+  - Configure networking settings of Azure VMs running Windows and Linux operating systems.
+  - Deploy and configure Azure VM scale sets.
+  
+  

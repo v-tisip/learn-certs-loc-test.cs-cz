@@ -1,0 +1,223 @@
+### YamlMime:Course
+title: Networking with Windows Server 2016
+metadata:
+  title: 'Course 20741B: Networking with Windows Server 2016'
+  description: 'Course 20741B: Networking with Windows Server 2016'
+uid: course.20741
+courseNumber: '20741B'
+timeToComplete:
+  days: 5
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Plan and implement an IPv4 network.
+- skill: Implement Dynamic Host Configuration Protocol (DHCP). Implement IPv6.
+- skill: Implement Domain Name System (DNS).
+- skill: Implement and manage IP address management (IPAM).
+- skill: Plan for remote access.
+- skill: Implement DirectAccess.
+- skill: Implement virtual private networks (VPNs).
+- skill: Implement networking for branch offices.
+- skill: Configure advanced networking features.
+- skill: Implement Software Defined Networking.
+
+learningPartnersLink: https://www.microsoft.com/en-us/learning/partners.aspx
+langs:
+- English
+levels:
+- intermediate
+roles:
+- developer
+relatedExams:
+- uid: exam.70-741
+summary: |
+  This 5-day classroom-based course provides the fundamental networking skills required to deploy and support Windows Server 2016 in most organizations. It covers IP fundamentals, remote access technologies, and more advanced content including Software Defined Networking.
+  
+  #### Audience profile
+  This course is intended for existing IT professionals who have some networking knowledge and experience and are looking for a single course that provides insight into core and advanced networking technologies in Windows Server 2016. This audience would typically include&#58;
+  - Network administrators who are looking to reinforce existing skills and learn about new networking technology changes and functionality in Windows Server 2016.
+  - System or Infrastructure Administrators with general networking knowledge who are looking to gain core and advanced networking knowledge and skills on Windows Server 2016.
+  The secondary audience for this course is those IT professionals who are looking to take the MCSA 70-741&#58; Networking with Windows Server 2016 exam.
+prerequisitesSection: |
+  In addition to professional experience, students who attend this training should already have the following technical knowledge&#58;
+  - Experience working with Windows Server 2008 or Windows Server 2012
+  - Experience working in a Windows Server infrastructure enterprise environment
+  - Knowledge of the Open Systems Interconnection (OSI) model
+  - Understanding of core networking infrastructure components and technologies such as cabling, routers, hubs, and switches
+  - Familiarity with networking topologies and architectures such as local area networks (LANs), wide area networks (WANs) and wireless networking
+  - Some basic knowledge of the TCP/IP protocol stack, addressing and name resolution
+  - Experience with and knowledge of Hyper-V and virtualization
+  - Hands-on experience working with the Windows client operating systems such as Windows 8.1 or Windows 10
+  Students can meet the prerequisites by attending the following course, or by having knowledge and skills equivalent to&#58;
+  - [10967A&#58; Fundamentals of a Windows Server Infrastructure](https://www.microsoft.com/en-us/learning/course.aspx?cid=10967)   
+  
+outlineSection: |
+  ### Module 1: Installing and Configuring Windows Server 2012
+  This module explains how the Windows Server 2012 editions, installation options, optimal service and device configuration and general post-installation configuration all contribute to the functionality and effectiveness of your Windows Server implementation.
+  #### Lessons
+  - Windows Server Architecture.
+  - Installing Windows Server.
+  - Configuring Services.
+  - Configuring Devices and Device Drivers.
+  #### Lab : Installing and Configuring Windows Server 2012
+  After completing this module, student will be able to&#58;
+  - Describe Windows Server components and architecture.
+  - Install Windows Server 2012.
+  - Configure services.
+  - Configure devices and device drivers.
+ 
+
+  ### Module 2: Implementing Storage in Windows Server
+  This module will introduce you to different storage technologies and discuss how to implement the storage solutions in Windows Server. There is also a discussion on how to create a resilient strategy for your storage, helping to avoid unplanned downtime and loss of data.
+  #### Lessons
+  - Identifying Storage Technologies.
+  - Managing Disks and Volumes.
+  - Fault Tolerance.
+  #### Lab : Implementing Storage in Windows Server
+  After completing this module, students will be able to&#58;
+  - Identify a suitable storage technology.
+  - Manage storage within Windows Server.
+  - Implement disk fault tolerance.
+  ### Module 3: Understanding Network Infrastructure
+  In this module, students will learn how to describe fundamental network component and terminology thus enabling the student to select an appropriate network component in a particular scenario.
+  #### Lessons
+  - Network Architecture Standards.
+  - Local Area Networking.
+  - Wide Area Networking.
+  - Wireless Networking.
+  - Connecting to the Internet.
+  - Remote Access.
+  #### Lab : Selecting Network Infrastructure Components
+  After completing this module, students will be able to&#58;
+  - Describe physical network topologies and standards.
+  - Define local area networks (LANs).
+  - Define wide area networks (WANs).
+  - Describe wireless networking technologies.
+  - Explain how to connect a network to the Internet.
+  - Describe how technologies are used for remote access.
+
+  ### Module 4: Connecting Network Components
+  This module explores the functionality of low-level networking components, including switches and routers. In addition, the module provides guidance on how best to connect these and other components together to provide additional network functionality.
+  #### Lessons
+  - Understanding the OSI Model.
+  - Understanding Media Types.
+  - Understanding Adapters, Hubs, and Switches.
+  - Understanding Routing.
+  #### Lab : Connecting Network Components
+  After completing this module, students will be able to&#58;
+  - Describe the industry standard protocol model.
+  - Describe wiring methodologies and standards.
+  - Describe adapters, hubs, and switches.
+  - Describe routing technologies and protocols.
+    
+  ### Module 5: Implementing TCP/IP
+  This module describes the requirements of a protocol stack and then focuses on the Transmission Control Protocol/Internet Protocol (TCP/IP) protocol stack.
+  #### Lessons
+  - Overview of TCP/IP.
+  - IPv4 Addressing.
+  - IPv6 Addressing.
+  - Name Resolution.
+  #### Lab : Implementing TCP/IP
+  After completing this module, students will be able to&#58;
+  - Describe the Functionality of the TCP/IP Suite.
+  - Describe IPv4 Addressing.
+  - Configure an IPv4 Network.
+  - Describe IPv6 Addressing and Transition.
+  - Describe the Various Name Resolution Methods Used by TCP/IP Hosts.
+    
+  ### Module 6: Implementing Windows Server Roles
+  This module explains the functional requirements of a server computer and how to select and deploy appropriate server roles to support these functional requirements.
+  #### Lessons
+  - Role-Based Deployment.
+  - Deploying Role-Specific Services.
+  - Considerations for Provisioning Roles.
+  #### Lab : Implementing Server Roles
+  After completing this module, students will be able to&#58;
+  - Describe role-based deployment.
+  - Deploy role-specific servers.
+  - Describe deployment options for server roles.
+  
+  ### Module 7: Implementing Active Directory
+  This module explains that, as a directory service, how AD DS stores information about objects on a network and makes this information available to users and network administrators.
+  #### Lessons
+  - Introducing Active Directory Domain Services (AD DS).
+  - Implementing AD DS.
+  - Managing Users, Groups, and Computers.
+  - Implementing Group Policy
+  #### Lab : Implementing AD DS
+  After completing this module, students will be able to&#58;
+  - Describe the fundamental features of AD DS.
+  - Implement AD DS.
+  - Implement organizational units (OUs) for managing groups and objects.  
+  - Configure client computers centrally with group policy objects (GPOs).
+  
+  ### Module 8: Implementing IT Security Layers
+  This module explains how, in addition to file and share permissions, you can also use data encryption to restrict data access.
+  #### Lessons
+  - Overview of Defense-in-Depth.
+  - Physical Security.
+  - Internet Security.
+  #### Lab : Implementing IT Security Layers
+  After completing this module, students will be able to&#58;
+  - Describe the risks posed by connecting to the Internet.
+  - Describe possible mitigations to these risks.
+  - Describe the Windows Server components and features that can help provide his Internet security.
+  
+  ### Module 9: Implementing Security in Windows Server
+  This module reviews the tools and concepts available for implementing security within a Microsoft Windows infrastructure.
+  #### Lessons
+  - Overview of Windows Security.
+  - Securing Files and Folders.
+  - Implementing Encryption.
+  #### Lab : Implementing Windows Security
+  After completing this module, students will be able to&#58;
+  - Describe the Windows Server features that help improve your network’s security.
+  - Explain how to secure files and folders in the Windows Server environment.
+  - Explain how to use the Windows Server encryption features to help secure access to resources.
+  
+  ### Module 10: Implementing Network Security
+  This module explains possible threats when you connect your computers to a network, how to identify them, and how implement appropriate Windows network security features to help to eliminate them.
+  #### Lessons
+  - Overview of Network Security.
+  - Implementing Firewalls.
+  - Internet Protocol Security (IPsec)
+  #### Lab : Implementing Network Security
+  After completing this module, students will be able to&#58;
+  - Identify network-based security threats.
+  - Implement Windows Firewall to secure Windows hosts.
+  - Explain how to enforce corporate compliance.
+    
+  ### Module 11: Implementing Security Software
+  This module explains how an information technology (IT) administrator can account for and mitigate the risks of malicious code, unauthorized use, and data theft.
+  #### Lessons
+  - Client Software Protection Features.
+  - E-Mail Protection.
+  - Server Protection.
+  #### Lab : Implementing Security Software
+  After completing this module, students will be able to&#58;
+   - Implement Windows Server technologies and features to improve client security.
+   - Describe security threats posed by e-mail and how to reduce these threats.
+   - Explain how to improve server security using Windows Server security analysis and hardening tools.
+  
+  ### Module 12: Monitoring Server Performance
+  This module discusses the importance of monitoring the performance of servers, and how you monitor servers to ensure that they run efficiently and use available server capacity. It also explains performance monitoring tools to identify components that require additional tuning and troubleshooting, so that you can improve the efficiency of your servers.
+  #### Lessons
+  - Event Logging.
+  - Performance Monitoring.
+  #### Lab : Monitoring Server Performance
+  After completing this module, students will be able to&#58;
+  - Use the Event Viewer to identify and interpret Windows Logs, and Application and Services Logs.
+  - Measure system resource usage and identify component bottlenecks  
+  
+  ### Module 13: Maintaining Windows Server
+  This module explains the importance of system updates, how to troubleshoot the Windows Server boot process, and how to implement high availability and recovery technologies to improve system availability.
+  #### Lessons
+  - Troubleshooting Windows Server Startup.
+  - Server Availability and Data Recovery.
+  - Applying Updates to Windows Server.
+  - Troubleshooting Windows Server.
+  #### Lab : Maintaining Windows Server
+  After completing this module, students will be able to&#58;
+  - Troubleshoot the Windows Server boot process.
+  - Implement high availability and recovery technologies to improve system availability.
+  - Explain the importance of system updates.
+  - Implement an appropriate troubleshooting methodology to resolve problems with Windows Server.  

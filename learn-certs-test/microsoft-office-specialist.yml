@@ -1,0 +1,37 @@
+### YamlMime:Certification
+title: Microsoft Office Specialist
+metadata:
+  title: 'MOS: Microsoft Office Specialist'
+  description: 'MOS: Microsoft Office Specialist'
+uid: certification.microsoft-office-specialist
+iconUrl: /media/learn/certification/certification-advanced.svg
+summary: |
+  This certification demonstrates that you have the deepest level of skills needed to proficiently use Office programs by earning a Microsoft Office Specialist Master certification.
+subTitle: This certification demonstrates that you have the deepest level of skills needed to proficiently use Office programs by earning a Microsoft Office Specialist Master certification.
+levels:
+- beginner
+skills:
+- Word 2016 Expert (Exam 77-726)
+- Excel 2016 Expert (Exam 77-728)
+- PowerPoint 2016 (Exam 77-729)
+roles:
+- developer
+- administrator
+products:
+- azure
+- azure-clis
+- windows
+courses:
+- uid: course.55167
+- uid: course.55175
+- uid: course.55177
+- uid: course.55179
+paths:
+- uid: learn-xamarin.customize-your-xamarin-forms-apps
+exams:
+- uid: exam.77-730
+- uid: exam.77-731
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay

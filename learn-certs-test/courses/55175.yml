@@ -1,0 +1,171 @@
+### YamlMime:Course
+title: Advanced Microsoft Word 2016
+metadata:
+  title: 'Course 55175A: Advanced Microsoft Word 2016'
+  description: 'Course 55175A: Advanced Microsoft Word 2016'
+uid: course.55175
+courseNumber: '55175A'
+timeToComplete:
+  days: 1
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Work with tables of contents. 
+- skill: Work with footnotes and endnotes.
+- skill: Insert bibliographies and indexes.
+- skill: Use comments.
+- skill: Use track changes including accepting and rejecting changes.
+- skill: Compare and combine documents.
+- skill: Use Mail Merge and create envelopes and labels.
+- skill: Protect documents.
+- skill: Use bookmarks, add watermarks, and customize the Ribbon.
+learningPartnersLink: https://www.microsoft.com/en-us/learning/partners.aspx
+langs:
+- English
+levels:
+- beginner
+roles:
+- developer
+relatedExams:
+- uid: exam.77-726
+summary: |
+  In this Microsoft Word 2016 training class, students learn advanced techniques, such as working with tables of contents, footnotes, and endnotes, adding comments, tracking changes, comparing and combining documents, creating envelopes and labels, using Mail Merge, and protecting documents. This class is for Word 2016 on Windows.
+  
+  #### Audience profile  
+  This course is intended for students who have intermediate skills with Microsoft Word 2016 who want to learn more advanced skills or students who want to learn the topics covered in this course in the 2016 interface.  
+prerequisitesSection: |
+  Before attending this course, students must have&#58;
+  - Intermediate level experience with Microsoft Word.
+outlineSection: |
+  ### Module 1: Working with Long Documents
+  This module explains how use Microsoft Word’s features to get the most out of working with longer documents.
+  #### Lessons
+  - Adding a Table of Contents
+  - Updating a Table of Contents
+  - Delting the Table of Contents
+  - Exercise&#58; Insert and Update a Table of Contents
+  - Footnotes and Endnotes
+  - Exercise&#58; Working with Footnotes
+  - Inserting Citations and a Bibliography
+  - Exercise&#58; Insert Citations and a Bibliography
+  - Adding an Index
+  - Exercise&#58; Inserting an Index
+  - Inserting a Table of Figures
+  - Inserting and Updating a Table of Authorities
+  - Creating an Outline
+  
+  After completing this module, students will be able to&#58;
+  - Add a table of contents to a Microsoft Word document. 
+  - Update a table of contents.
+  - Add footnotes to a Microsoft Word document.
+  - Add endnotes to a Microsoft Word document.
+  - Insert citations into a Microsoft Word document.
+  - Insert a bibliography.
+  - Mark entries in a document.
+  - Insert an index into a Microsoft Word document.
+  - Create an outline in Word.
+
+  ### Module 2: Review and Collaborating on Documents
+  This module explains how to review and collaborate on documents with others.
+  #### Lessons
+  - Adding Comments
+  - Exercise&#58; Adding Comments to a Document
+  - Tracking Changes
+  - Exercise&#58; Tracking Changes
+  - Viewing Changes, Additions, and Comments
+  - Exercise&#58; Viewing Markup
+  - Accepting and Rejecting Changes
+  - Exercise&#58; Accepting and Rejecting Changes
+  
+  After completing this module, students will be able to&#58;
+  - Add and work with comments.
+  - Track changes and set and change tracking options.
+  - View changes, additions, and comments.
+  - Use the Reviewing pane.
+  - Choose what changes to show.
+  - Accept and reject changes.
+  
+  ### Module 3: Comparing and Combining Documents
+  This module explains how compare and combine documents in Microsoft Word.
+  #### Lessons
+  - Comparing Documents
+  - Exercise&#58; Comparing Documents
+  - Combining Documents
+  - Exercise&#58; Combining Documents
+  
+  After completing this module, students will be able to&#58;
+  - Compare documents to find out what has changed between different version of a document.
+  - Combine documents to gather revisions made by various individuals into a single document.
+
+  ### Module 4: Managing Mailings
+  This module explains how manage mailings using Microsoft Word.
+  #### Lessons
+  - Creating Envelopes and Labels
+  - Exercise&#58; Printing an Envelope
+  - Using Mail Merge
+  - Exercise&#58; Using Mail Merge
+  
+  After completing this module, students will be able to&#58;
+  - Create and print envelopes in Microsoft Word.
+  - Create and print labels in Microsoft Word.
+  - Use Mail Merge to print or email form letters to multiple recipients.
+  - Select Mail Merge recipients from an existing list.
+  
+  ### Module 5: Protecting Documents
+  This module explains how to use Microsoft Word features to protect documents.
+  #### Lessons
+  - Making Microsoft Word Documents Read Only
+  - Password Protect Word Documents
+  - Removing Metadata from Files
+  - Restrict Formatting and Editing
+  - Exercise&#58; Protecting a Document
+  
+  After completing this module, students will be able to&#58;
+  - Mark documents as final and make them read only.
+  - Password protect Microsoft Word documents.
+  - Restrict formatting options before sharing a document with others.
+  - Restrict editing options before sharing a document with others.
+  
+  ### Module 6: Random Useful Items
+  This module explains how to use various Microsoft Word features to enhance your use of the program.
+  #### Lessons
+  - Add bookmarks to a document and use them to jump around a document.
+  - Add watermarks to a Microsoft Word document.
+  - Add titles to sections.
+  - Insert built-in fields.
+  - Use the Go To feature.
+  - Customize the ribbon.
+  - Prepare a document for internatiolization and accessibility.
+  
+  After completing this module, students will be able to&#58;
+  - Add bookmarks.
+  - Add watermarks. 
+  - Add titles to sections.
+  - Insert built-in fields.
+  - Use the Go To feature.
+  - Customize the ribbon.
+  - Prepare a document for internationalization and accessibility.
+  
+  ### Module 7: New Features as of 2013
+  This module explains how to use the Cloud and Resume Reading feature, new since 2016.
+  #### Lessons
+  - Using the Cloud
+  - Exercise&#58; Using the Cloud
+  - Resume Reading Feature
+  
+  After completing this module, students will be able to&#58;
+  - Use the Cloud
+  - Use the Resume Reading feature
+ 
+  ### Module 8: New Features in Word 2016
+  This module explains how to use features new in Word 2016.
+  #### Lessons
+  - Ink Equations
+  - Version History
+  - Shape Formatting
+  - Sharing
+  
+  After completing this module, students will be able to&#58;
+  - Use the Ink Equation feature.
+  - Use version history.
+  - Use new shape formatting options.
+  - Share documents.

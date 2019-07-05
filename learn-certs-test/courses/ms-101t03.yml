@@ -1,0 +1,75 @@
+### YamlMime:Course
+title: Microsoft 365 Device Management
+metadata:
+  title: 'Course MS-101T03-A: Microsoft 365 Device Management'
+  description: 'Course MS-101T03-A: Microsoft 365 Device Management'
+uid: course.ms-101t03
+courseNumber: 'MS-101T03-A'
+timeToComplete:
+  days: 1
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Plan for Co-management
+- skill: Prepare your Windows 10 devices for Co-management
+- skill: Transition from Configuration Manager to Intune
+- skill: Configure Microsoft Store for Business
+- skill: Plan for Mobile Application Management
+- skill: Plan your Windows 10 deployment strategy
+- skill: Plan your Windows 10 subscription activation strategy
+- skill: Resolve Windows 10 upgrade errors
+- skill: Implement Windows 10 Analytics
+- skill: Deploy Mobile Device Management
+- skill: Manage devices with Mobile Device Management
+- skill: Enroll devices to Mobile Device Management
+- skill: Manage device compliance
+learningPartnersLink: https://www.microsoft.com/en-us/learning/partners.aspx
+langs:
+- English
+levels:
+- intermediate
+roles:
+- administrator
+relatedExams:
+- uid: exam.ms-101
+summary: |
+  This course introduces you to the world of Microsoft 365 device management - from establishing Microsoft Intune, to enrolling devices to Intune, to monitoring the devices, to controlling what users can do from the enrolled devices by using conditional access policies. If you are already managing devices by using a traditional device management tool such as Configuration Manager, you will be interested to know how you can seamlessly move to modern management, in which devices are managed by Intune, and how you can benefit from new device management capabilities, such as compliance, conditional access, and Windows Autopilot to deploy new devices from the cloud.
+  
+  #### Audience profile
+  This course is designed for persons who are aspiring to the Microsoft 365 Enterprise Admin role and have completed one of the Microsoft 365 role-based administrator certification paths.
+prerequisitesSection: |
+  - Completed a role-based administrator course such as Messaging, Teamwork, Security and Compliance, or Collaboration.
+  - A proficient understanding of DNS and basic functional experience with Microsoft 365 services.
+  - A proficient understanding of general IT practices.
+outlineSection: |
+  ### Module 1: Planning for Device Management
+  #### Lessons
+  - Introduction to Co-management
+  - Preparing Your Windows 10 Devices for Co-management
+  - Transitioning from Configuration Manager to Intune
+  - Introduction Microsoft Store for Business
+  - Planning for Mobile Application Management
+  
+  ### Module 2: Planning Your Windows 10 Deployment Strategy
+  #### Lessons
+  - Windows 10 Deployment Scenarios
+  - Planning Your Windows 10 Subscription Activation Strategy
+  - Resolving Windows 10 Upgrade Errors
+  - Introduction to Windows Analytics
+  
+  ### Module 3: Implementing Mobile Device Management
+  #### Lessons
+  - Planning Mobile Device Management
+  - Deploying Mobile Device Management
+  - Enrolling Devices to MDM
+  - Managing Device Compliance
+  
+  ### Module 4: Hands-On Lab
+  #### Lab : Working with Microsoft Store for Business
+  - Exercise 1&#58; Provisioning and managing the Microsoft Store for Business
+  - Exercise 2&#58; Using the Microsoft Store for Business
+  #### Lab : Managing Devices by using Intune
+  - Exercise 1&#58; Obtain Intune and enable device management
+  - Exercise 2&#58; Configure Azure AD for Intune
+  - Exercise 3&#58; Create Intune policies
+  - Exercise 4&#58; Enroll a Windows 10 device
+  - Exercise 5&#58; Manage and monitor a device in Intune

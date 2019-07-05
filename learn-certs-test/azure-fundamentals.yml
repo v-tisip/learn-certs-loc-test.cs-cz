@@ -1,0 +1,35 @@
+### YamlMime:Certification
+title: Azure Fundamentals
+metadata:
+  title: Microsoft Certified Azure Fundamentals
+  description: Microsoft Certified Azure Fundamentals
+uid: certification.azure-fundamentals
+iconUrl: /media/learn/certification/certification-beginner.svg
+summary: |
+  Prove that you understand cloud concepts, core Azure Services, Azure pricing and support, and the fundamentals of cloud security, privacy, compliance, and trust.
+subTitle: Prove that you understand cloud concepts, core Azure Services, Azure pricing and support, and the fundamentals of cloud security, privacy, compliance, and trust.
+levels:
+- beginner
+skills:
+- Understand cloud concepts
+- Understand core Azure services
+- Understand security, privacy, compliance, and trust
+- Understand Azure pricing and support
+roles:
+- developer
+- administrator
+products:
+- azure
+courses:
+- uid: course.az-900t01
+paths:
+- uid: learn-xamarin.customize-your-xamarin-forms-apps
+exams:
+- uid: exam.az-900
+resources:
+- title: Guides to Role-based Certifications
+  description: Explore all certifications in a concise certification guide or the Role-based Certification Roadmap poster.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay

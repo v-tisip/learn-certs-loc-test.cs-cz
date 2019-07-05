@@ -1,0 +1,35 @@
+### YamlMime:Certification
+title: Windows Server 2016
+metadata:
+  title: 'MCSA: Windows Server 2016'
+  description: 'MCSA: Windows Server 2016'
+uid: certification.windows-server-2016
+iconUrl: /media/learn/certification/certification-intermediate.svg
+summary: |
+  Prove your mastery of the primary set of Windows Server 2016 skills required to reduce IT costs and deliver more business value.
+subTitle: Prove your mastery of the primary set of Windows Server 2016 skills required to reduce IT costs and deliver more business value.
+levels:
+- beginner
+skills:
+- none
+roles:
+- developer
+- administrator
+products:
+- azure
+- azure-clis
+- windows
+courses:
+- uid: course.20740
+- uid: course.20741
+- uid: course.20742
+paths:
+- uid: learn-xamarin.customize-your-xamarin-forms-apps
+exams:
+- uid: exam.70-740
+- uid: exam.70-741
+- uid: exam.70-742
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay

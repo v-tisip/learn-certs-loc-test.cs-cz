@@ -1,0 +1,53 @@
+### YamlMime:Examination
+title: 'Access 2016: Core Database Management, Manipulation, and Query Skills'
+metadata:
+  title: 'Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
+  description: 'Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
+uid: exam.77-730
+displayName: '77-730'
+summary: |
+  Successful candidates for the Access 2016 exam have a fundamental understanding of the application’s environment. They understand basic database design principles and are able to complete tasks independently. They know and demonstrate the correct application of the principle features of Access 2016, and they demonstrate the ability to create and maintain basic Access database objects, including tables, relationships, data entry forms, multi-level reports, and multi-table queries.
+  
+  Microsoft Office Specialist (MOS) 2016 certification exams introduce a new performance-based format for improved testing of a candidate’s knowledge, skills, and abilities using the MOS 2016 programs&#58;
+  - MOS 2016 exam task instructions generally do not include the command name, as in previous versions. For example, function names are avoided and are replaced with descriptors. This means candidates must understand the purpose and common usage of the program functionality in order to successfully complete the tasks in each of the projects.
+  - The MOS 2016 exam format incorporates multiple projects.
+
+subTitle: Successful candidates for the Access 2016 exam have a fundamental understanding of the application’s environment.
+iconUrl: /media/learn/certification/exam.svg
+practiceTestUrl: none
+scheduleExamUrl: http://www.certiport.com/locator
+langs:
+- English
+- Chinese (Simplified)
+- Chinese (Traditional)
+- Spanish
+- French
+- Japanese
+- Korean
+- Norwegian
+levels:
+- beginner
+skills:
+- Create and manage a database
+- Build tables
+- Create queries
+- Create forms
+- Create reports
+roles:
+- developer
+- administrator
+products:
+- office
+relatedExams:
+- uid: exam.77-731
+courses:
+- uid: course.ms-100t04
+paths:
+- uid: learn-xamarin.customize-your-xamarin-forms-apps
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay

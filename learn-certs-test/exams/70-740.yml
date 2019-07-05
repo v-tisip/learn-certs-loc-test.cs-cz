@@ -1,0 +1,53 @@
+### YamlMime:Examination
+title: Installation, Storage, and Compute with Windows Server 2016
+metadata:
+  title: 'Exam 70-740: Installation, Storage, and Compute with Windows Server 2016'
+  description: 'Exam 70-740: Installation, Storage, and Compute with Windows Server 2016'
+uid: exam.70-740
+displayName: '70-740'
+summary: |
+  Candidates for this exam are involved with the installation, storage, and compute functionalities available in Windows Server 2016. Candidates perform general installation tasks, as well as creating and managing images for deployment.
+  
+  Candidates should have experience with local and server storage solutions including the configuration of disks and volumes, Data Deduplication, High Availability, Disaster Recovery, Storage Spaces Direct, and Failover Clustering solutions. The candidates should also be familiar with managing Hyper-V and Containers as well as maintaining and monitoring servers in physical and compute environments.
+
+subTitle: Candidates for this exam are involved with the installation, storage, and compute functionalities available in Windows Server 2016. Candidates perform general installation tasks, as well as creating and managing images for deployment.
+iconUrl: /media/learn/certification/exam.svg
+practiceTestUrl: https://www.mindhub.com/70-740-Windows-Server-2016-p/mu-70-740_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=740&examname=Installation%2C%20Storage%2C%20and%20Compute%20with%20Windows%20Server%202016&returnToLearningUrl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Flearning%2Fexam-70-740.aspx
+langs:
+- English
+- Chinese (Simplified)
+- Chinese (Traditional)
+- Spanish
+- French
+- German
+- Japanese
+- Portuguese (Brazil)
+levels:
+- beginner
+skills:
+- Install Windows Servers in Host and Compute Environments
+- Implement Storage Solutions
+- Implement Hyper-V
+- Implement Windows Containers
+- Implement High Availability
+- Maintain and Monitor Server Environments
+roles:
+- developer
+- administrator
+products:
+- windows
+relatedExams:
+- uid: exam.70-741
+- uid: exam.70-742
+courses:
+- uid: course.20740
+paths:
+- uid: learn-xamarin.customize-your-xamarin-forms-apps
+relatedCertifications:
+- related:
+    uid: certification.windows-server-2016
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay

@@ -1,0 +1,51 @@
+### YamlMime:Examination
+title: Identity with Windows Server 2016
+metadata:
+  title: 'Exam 70-742: Identity with Windows Server 2016'
+  description: 'Exam 70-742: Identity with Windows Server 2016'
+uid: exam.70-742
+displayName: '70-742'
+summary: |
+  Candidates for this exam manage identities using the functionalities in Windows Server 2016. Candidates install, configure, manage, and maintain Active Directory Domain Services (AD DS) as well as implement Group Policy Objects (GPOs).
+  
+  Candidates should also be familiar implementing and managing Active Directory Certificate Services (AD CS), Active Directory Federations Services (AD FS), Active Directory Rights Management Services (AD RMS), and Web Application proxy.
+subTitle: Candidates for this exam manage identities using the functionalities in Windows Server 2016. Candidates install, configure, manage, and maintain Active Directory Domain Services (AD DS) as well as implement Group Policy Objects (GPOs).
+iconUrl: /media/learn/certification/exam.svg
+practiceTestUrl: https://www.mindhub.com/70-742-Identity-with-Windows-Server-2016-Microsoft-p/mu-70-742_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=741&examname=Networking%20with%20Windows%20Server%202016&returnToLearningUrl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Flearning%2Fexam-70-741.aspx
+langs:
+- English
+- Chinese (Simplified)
+- Chinese (Traditional)
+- Spanish
+- French
+- German
+- Japanese
+- Portuguese (Brazil)
+levels:
+- beginner
+skills:
+- Install and Configure Active Directory Domain Services (AD DS)
+- Manage and Maintain AD DS
+- Create and Manage Group Policy
+- Implement Active Directory Certificate Services (AD CS)
+- Implement Identity Federation and Access Solutions
+roles:
+- developer
+- administrator
+products:
+- windows
+relatedExams:
+- uid: exam.70-740
+- uid: exam.70-741
+courses:
+- uid: course.ms-100t04
+paths:
+- uid: learn-xamarin.customize-your-xamarin-forms-apps
+relatedCertifications:
+- related:
+    uid: certification.windows-server-2016
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay

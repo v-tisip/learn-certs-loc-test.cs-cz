@@ -1,0 +1,100 @@
+### YamlMime:Course
+title: Implementing and Managing Storage
+metadata:
+  title: 'Course AZ-100T02-A: Implementing and Managing Storage'
+  description: 'Course AZ-100T02-A: Implementing and Managing Storage'
+uid: course.az-100t02
+courseNumber: 'AZ-100T02-A'
+timeToComplete:
+  days: 1
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create Azure storage accounts for different data replication, pricing, and content scenarios. 
+- skill: Implement virtual machine storage, blob storage, Azure files, and structured storage.
+- skill: Secure and manage storage with shared access keys, Azure backup, and Azure File Sync.
+- skill: Store and access data using Azure Content Delivery Network, and the Import and Export service.
+- skill: Monitor Azure storage with metrics and alerts, and the Activity Log.
+learningPartnersLink: https://www.microsoft.com/en-us/learning/partners.aspx
+langs:
+- English
+levels:
+- intermediate
+roles:
+- administrator
+relatedExams:
+- uid: exam.az-100
+summary: |
+  Thiscourse teaches IT Professionals how to implement Azure storage solutions for a variety of scenarios. Students learn aboutthe different storage accounts and services as well as basic data replication concepts and available replication schemes. Students are also introduced to Storage Explorer as a convenient way to work with Azure storage data. Students also learn the types of storage and how to work with managed and custom disks.
+  
+  Azure blob storage is how Azure stores unstructured data in the cloud, and students learn how to work with blobs and blob containers. They also learn how to use Azure Files to work with file shares that are accessed via the Server Message Block (SMB) protocol. In addition to blob storage, the course covers Table and Queue storage as storage options for structured data.
+  
+  Students then learn how to secure and manage storage using Shared Access Signatures (SAS) and Azure Backup, using Recovery ServicesVault. Next, students learn how to use Azure File Sync to centralize an organization’s file Shares in Azure Files. Content Delivery Network (CDN) is used to store cached content on a distributed network of servers that are close to end users. Studentslearn how to optimize content delivery with Azure CDN, as wellas how to transfer large amounts of data using the Azure Import/Export service.
+  
+  Lastly, students learn how to monitor Azure storage by configuring metrics and alerts and using the Activity Log. Students learn how to analyze usage trends, trace requests, and diagnose issues with a storage account.
+  
+  #### Audience profile  
+  This course is for Azure Administrators. Azure Administrators manage the cloud services that span storage, networking, and compute cloud capabilities, with a deep understanding of each service across the full IT lifecycle. They take end-user requests for new cloud applications and make recommendations on services to use for optimal performance and scale, as well as provision, size, monitor and adjust as appropriate. This role requires communicating and coordinating with vendors.  Azure Administrators use the Azure Portal and as they become more proficient they use PowerShell and the Command Line Interface.  
+prerequisitesSection: |
+  Successful Azure Administrators start this role with experience on operating systems, virtualization, cloud infrastructure, storage structures, and networking. 
+outlineSection: |
+  ### Module 1: Overview of Azure Storage
+  In this module, you’ll learn about storage accounts – Standard and Premium – as well as storage endpoints and how to configure custom domain accounts. You’ll have an opportunity to practice creating and managing storage accounts. The module also covers data replication and provides a comparison of the different available replication schemes. You’ll be introduced to Azure Storage Explorer, a utility that lets you easily work with and manipulate Azure Storage data.
+  #### Lessons
+  - Azure storage accounts
+  - Data replication
+  - Azure Storage Explorer
+  
+  After completing this module, students will be able to&#58;
+  - Create Azure storage accounts for different data replication, pricing, and content scenarios. 
+
+  ### Module 2: Storage Services
+  In this module, you’ll learn about the disks component of Azure Storage as it relates to virtual machines. Disks are how virtual machines store their VHD files. You will learn about the types of disks and storage and how Azure simplifies IaaS disk management by creating and managing the storage accounts associated with the virtual machine disks. You will also learn about how Azure blob storage stores unstructured data in the cloud as objects, or blobs (BLOB = binary large object). And you’ll explore Azure Files, which offers fully managed file shares in the cloud that are accessible via the Server Message Block (SMB) protocol. The other file storage options covered in the module are Tables and Queues for structured storage.
+  #### Lessons
+  - Virtual machine storage
+  - Blob storage
+  - Azure files
+  - Structured storage
+  
+  After completing this module, students will be able to&#58;
+    - Implement virtual machine storage, blob storage, Azure files, and structured storage.
+  
+  ### Module 3: Securing and Managing Storage
+  In this module, discover how a shared access signature (SAS) can be used to provide delegated access to resources in storage accounts, allowing clients access to those resources with sharing the storage account keys. You’ll also learn how to use Azure backup as a cloud-based solution for an existing on-premises or off-site backup and data protection solution. This module also covers Azure File Sync as a way to centralize an organization’s file shares in Azure Files, and using Windows Server to cache the Azure file share locally, thus enabling scenarios such as “lift and shift,” backup and disaster recovery, and file archiving.
+  #### Lessons
+  - Shared access keys
+  - Azure backup
+  - Azure File Sync
+  
+  After completing this module, students will be able to&#58;
+  - Secure and manage storage with shared access keys, Azure backup, and Azure File Sync.
+
+  ### Module 4: Storing and Accessing Data
+  In this module, you’ll learn about using a content delivery network (CDN) to deliver cached content that is stored on a distributed network of edge servers closer to end-users. You’ll also learn how to transfer large amount of data to and from the cloud using the Azure Import/Export service and Azure Data Box.
+  #### Lessons
+  - Azure Content Delivery Network
+  - Import and Export service
+  - Data Box
+  
+  After completing this module, students will be able to&#58;
+  - Store and access data using Azure Content Delivery Network, the Import and Export service, and Data Box.
+  
+  ### Module 5: Monitoring Storage
+  In this module, you will learn techniques for monitoring the health of Azure storage. With metrics and alerts you can check a variety of performance metrics and send notifications to your system administrator team. With the Activity Log you can search and query for specific events, even across subscriptions.
+  #### Lab : Implement Azure Site Recovery Between Azure Regions
+  - Metrics and Alerts
+  - Activity Log
+  
+  After completing this module, students will be able to&#58;
+  - Monitor Azure storage with metrics and alerts, and the Activity Log.
+  
+  ### Module 6: Lab-Implement and Manage Storage
+  This module is provided to give you hands-on experience with the information provided in the course.
+  #### Lab : Implement and Manage Storage
+  - Prepare the lab environment.
+  - Implement and use Azure Blob storage.
+  - Implement and use Azure File storage.
+  
+  After completing this module, you will be able to&#58;
+  - Implement and use Blob storage.
+  - Implement and use File storage. 
+ 

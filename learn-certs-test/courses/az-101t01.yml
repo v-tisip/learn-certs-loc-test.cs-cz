@@ -1,0 +1,77 @@
+### YamlMime:Course
+title: Migrate Servers to Azure
+metadata:
+  title: 'Course AZ-101T01-A: Migrate Servers to Azure'
+  description: 'Course AZ-101T01-A: Migrate Servers to Azure'
+uid: course.az-101t01
+courseNumber: 'AZ-101T01-A'
+timeToComplete:
+  days: 1
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Use Azure Migrate to discover and assess on-premises virtual machine migration to Azure.
+- skill: Use Azure Site Recovery to migrate Hyper-V infrastructures to Azure.
+- skill: Use Azure Database Migration service and Azure Import/Export service for data migration scenarios.
+learningPartnersLink: https://www.microsoft.com/en-us/learning/partners.aspx
+langs:
+- English
+levels:
+- intermediate
+roles:
+- administrator
+relatedExams:
+- uid: exam.az-101
+summary: |
+  This course teaches IT professionals how to discover, assess, plan and implement a migration of on-premises resources and infrastructure to Azure. Students will learn how to use Azure Migrate to perform the discovery and assessment phase that is critical to a successful migration. Students will also learn how to use Azure Site Recovery for performing the actual migration of workloads to Azure. The course focuses primarily on using ASR on a Hyper-V infrastructure to prepare and complete the migration process. Students will learn about using Azure Backup and Azure to Azure replication to ensure adequate disaster recovery mechanisms are in place. Finally, students will learn about using Azure Database Migration Service and the Azure Import/Export service for data migration scenarios.
+  
+  #### Audience profile
+  This course is for Azure Administrators. Azure Administrators manage the cloud services that span storage, networking, and compute cloud capabilities, with a deep understanding of each service across the full IT lifecycle. They take end-user requests for new cloud applications and make recommendations on services to use for optimal performance and scale, as well as provision, size, monitor and adjust as appropriate. This role requires communicating and coordinating with vendors. Azure Administrators use the Azure Portal and as they become more proficient they use PowerShell and the Command Line Interface.
+prerequisitesSection: |
+  Successful Azure Administrators start this role with experience on operating systems, virtualization, cloud infrastructure, storage structures, and networking.
+outlineSection: |
+  ### Module 1: Azure Migrate
+  In this module, you will be introduced to Azure migration projects and specifically Azure Migrate. Azure Migrate will be your tool of choice for automated server discovery and workload sizing. You will step through the process of using Azure Migrate to create a project, create a collector, assess machine readiness, and estimate cost.
+  #### Lessons
+  - Overview of Cloud Migration
+  - Azure Migrate&#58; The Process
+  
+  After completing this module, students will be able to&#58;
+  - Use Azure Migrate to discover and assess on-premises virtual machine migration to Azure.
+
+  ### Module 2: Azure Site Recovery
+  In this module, you will be introduced to Azure Site Recovery (ASR). ASR will be your primary tool for migrating workloads to Azure. You will learn which scenarios are most appropriate for ASR and the features that the product provides. You will also learn how to use the ASR deployment planner to ensure your infrastructure is ready for migration. Lastly, you will walk through the process of implementing ASR on a Hyper-V infrastructure.
+  #### Lessons
+  - Overview of ASR
+  - Preparing the Infrastructure
+  - Completing the Migration Process
+  
+  After completing this module, students will be able to&#58;
+    - Use Azure Site Recovery to migrate Hyper-V infrastructures to Azure.
+  
+  ### Module 3: Disaster Recovery
+  In this module, you will introduced to Azure Backup. Azure Backup can be used to backup and restore your virtual machines. You will also learn about Azure to Azure replication. This will enable you to replicate virtual machines from one Azure region to another Azure region. This will protect against regional outages.
+  #### Lessons
+  - Backup and Restore
+  - Azure to Azure Disaster Recovery
+  
+  After completing this module, students will be able to&#58;
+  - Use Azure Backup for virtual machines, and migrate virtual machines from one Azure region to another.
+
+  ### Module 4: Migrating Data
+  In this module, you will learn about using the Azure Database Migration service to perform seamless migrations at scale from multiple database sources to Azure Data platforms. You’ll also learn how to transfer large amount of data to and from the cloud using the Azure Import/Export service.
+  #### Lessons
+  - Database Migration
+  - Import and Export Service
+  
+  After completing this module, students will be able to&#58;
+  - Use Azure Database Migration service and Azure Import/Export service for data migration scenarios.
+  
+  ### Module 5: Lab-Implement Azure Site Recovery Between Azure Regions
+  This module is provided to give you hands-on experience with the information provided in the course.
+  #### Lab : Implement Azure Site Recovery Between Azure Regions
+  - Implement prerequisites for migration of Azure VMs by using Azure Site Recovery
+  - Migrate an Azure VM between Azure regions by using Azure Site Recovery
+  
+  After completing this module, students will be able to&#58;
+  - Implement Azure Site Recovery Vault.
+  - Configure replication of Azure VMs between Azure regions by using Azure Site Recovery.  

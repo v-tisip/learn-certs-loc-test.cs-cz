@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: Microsoft 365 Mobility and Security
+metadata:
+  title: 'Exam MS-101: Microsoft 365 Mobility and Security'
+  description: 'Exam MS-101: Microsoft 365 Mobility and Security'
+uid: exam.ms-101
+displayName: MS-101
+summary: |
+  Candidates for this exam are Microsoft 365 Enterprise Administrators who take part in evaluating, planning, migrating, deploying, and managing Microsoft 365 services. They perform Microsoft 365 tenant management tasks for an enterprise, including its identities, security, compliance, and supporting technologies.
+  
+  Candidates have a working knowledge of Microsoft 365 workloads and should have been an administrator for at least one Microsoft 365 workload (Exchange, SharePoint, Skype for Business, Windows as a Service). Candidates also have a working knowledge of networking, server administration, and IT fundamentals such as DNS, Active Directory, and PowerShell.
+
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: implement modern device services; implement Microsoft 365 security and threat management; and manage Microsoft 365 governance and compliance.'
+iconUrl: /media/learn/certification/exam.svg
+practiceTestUrl: none
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=MS-101&examname=Exam%20MS-101%3A%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Flearning%2Fexam-ms-101.aspx
+langs:
+- English
+levels:
+- beginner
+skills:
+- Implement modern device services
+- Implement Microsoft 365 security and threat management
+- Manage Microsoft 365 governance and compliance
+roles:
+- developer
+- administrator
+products:
+- azure
+relatedExams:
+- uid: exam.ms-100
+courses:
+- uid: course.ms-101t01
+- uid: course.ms-101t02
+- uid: course.ms-101t03
+paths:
+- uid: learn-xamarin.customize-your-xamarin-forms-apps
+relatedCertifications:
+- related:
+    uid: certification.microsoft-365-enterprise-administrator
+resources:
+- title: Guides to Role-based Certifications
+  description: Explore all certifications in a concise certification guide or the Role-based Certification Roadmap poster.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay

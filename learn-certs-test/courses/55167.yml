@@ -1,0 +1,181 @@
+### YamlMime:Course
+title: Advanced Microsoft Excel 2016
+metadata:
+  title: 'Course 55167A: Advanced Microsoft Excel 2016'
+  description: 'Course 55167A: Advanced Microsoft Excel 2016'
+uid: course.55167
+courseNumber: '55167A'
+timeToComplete:
+  days: 1
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create pivot tables and charts. 
+- skill: Learn to trace precedents and dependents.
+- skill: Convert text and validate and consolidate data.
+- skill: Collaborate with others by protecting worksheets and workbooks.
+- skill: Create, use, edit, and manage macros.
+- skill: Import and export data.
+learningPartnersLink: https://www.microsoft.com/en-us/learning/partners.aspx
+langs:
+- English
+levels:
+- advanced
+roles:
+- developer
+relatedExams:
+- uid: exam.77-728
+summary: |
+  This Advanced Microsoft Excel 2016 training class is designed for students to gain the skills necessary to use pivot tables, audit and analyze worksheet data, utilize data tools, collaborate with others, and create and manage macros.
+  
+  #### Audience profile  
+  Students who have intermediate skills with Microsoft Excel 2016 who want to learn more advanced skills or students who want to learn the topics covered in this course in the 2016 interface.  
+prerequisitesSection: |
+  Intermediate level of Excel. 
+outlineSection: |
+  ### Module 1: Using Pivot Tables
+  This module explains how to use Pivot Tables.
+  #### Lessons
+  - Creating Pivot Tables
+  - Inserting Slicers
+  - Working with Pivot Tables
+  - Inserting Pivot Charts
+  - More Pivot Table Functionality
+  #### Lab : Using Pivot Tables
+  - Working with Pivot Tables
+  
+  After completing this module, students will be able to&#58;
+  - Use pivot tables to analyze data. 
+  - Edit pivot tables. 
+  - Format pivot tables.
+  - Insert pivot charts.
+  - Use Slicers.
+
+  ### Module 2: Auditing Worksheets
+  This module explains how to audit worksheets.
+  #### Lessons
+  - Tracing Precedents
+  - Tracing Dependents
+  - Showing Formulas
+  #### Lab : Auditing Worksheets
+  - Tracing Precedents
+  - Tracing Dependents
+  
+  After completing this module, students will be able to&#58;
+  - Audit formulas.
+  - Trace precedents to determine which cells impact a specific cell.
+  - Trace dependents to determine which cells are impacted by a specific cell.
+  - Remove precedent and dependent arrows.
+  - Show formulas.
+  - Check for errors frequently found in formulas.
+  
+  ### Module 3: Data Tools
+  This module explains how to work with data tools.
+  #### Lessons
+  - Converting Text to Columns
+  - Linking to External Data
+  - Controlling Calculation Options
+  - Data Validation
+  - Consolidating Data
+  - Goal Seek
+  #### Lab : Data Tools
+  - Converting Text to Columns
+  - Using Data Validation
+  - Consolidating Data
+  - Using Goal Seek
+  
+  After completing this module, students will be able to&#58;
+  - Convert text to columns.
+  - Use Data Validation to restrict the type of data that can be entered into a cell.
+  - Consolidate data from a number of different ranges into one new range.
+  - Use Goal Seek to figure out the value to input to obtain a specific result.
+
+  ### Module 4: Working with Others
+  This module explains how to do various tasks associated with working with others in Excel.
+  #### Lessons
+  - Protecting Worksheets and Workbooks
+  - Tracking Changes
+  - Marking a Workbook as Final
+  #### Lab : Working with Others
+  - Password Protecting a Workbook
+  - Password Protecting a Worksheet
+  - Password Protecting Ranges in a Worksheet
+  - Tracking Changes
+  
+  After completing this module, students will be able to&#58;
+  - Password protect a workbook.
+  - Password protect a worksheet.
+  - Password protect ranges in a worksheet.
+  - Use track changes.
+  - Accept and reject changes.
+  - List all changes on a new sheet.  
+  
+  ### Module 5: Recording and Using Macros
+  This module explains how to record and use macros.
+  #### Lessons
+  - Recording Macros
+  - Running Macros
+  - Editing Macros
+  - Adding Macros to the Quick Access Toolbar
+  #### Lab : Recording and Using Macros
+  - Recording a Macro
+  - Adding a Macro to the Quick Access Toolbar
+  
+  After completing this module, students will be able to&#58;
+  - Run macros.
+  - Edit macros.
+  - Add macros to the Quick Access Toolbar.
+  
+  ### Module 6: Random Useful Items
+  This module explains how to do some random useful tasks in Excel.
+  #### Lessons
+  - Sparklines
+  - Preparing a Workbook for Internationalization and Accessibility
+  - Importing and Exporting Files
+  #### Lab : Random Useful Items
+  - Inserting and Customizing Sparklines
+  - Importing Text Files
+  - Copying Data from Excel to Word
+  - Copying Charts from Excel to Word
+  
+  After completing this module, students will be able to&#58;
+  - Insert Sparklines into worksheets.
+  - Customize Sparklines. 
+  - Prepare a workbook for internationalization and accessibility.
+  - Import text files into Microsoft Excel.
+  - Copy cells from a worksheet into Microsoft Word.
+  - Copy and paste a chart into Microsoft Word.
+
+  ### Module 7: Microsoft Excel Features that Were New in 2013
+  This module explains how to use some new features that were new in 2013.
+  #### Lessons
+  - Using Slicers to Filter Data
+  - Creating a PivotTable Timeline
+  - Creating a Standalone PivotChart
+  - Workspaces in Excel 2013
+  #### Lab : Microsoft Excel Features that Were New in 2013
+  - Filtering Data with Slicers
+  - Creating a Timeline
+  
+  After completing this module, students will be able to&#58;
+  - Use slicers to filter data.
+  - Create a PivotTable timeline. 
+  - Create a standalone PivotChart.
+  
+  ### Module 8: Features New in 2016
+  This module explains how to some new features new in 2016.
+  #### Lessons
+  - PivotTable Updates
+  - Ink Equations
+  - Multi-Select Option in Slicers
+  - Quick Shape Formatting
+  - Sharing with SharePoint or OneDrive
+  
+  After completing this module, students will be able to&#58;
+  - Understand the enhancements to PivotTables.
+  - Use the Ink Equation feature. 
+  - Use the Multi-Select option in slicers.
+  - Use the Quick Shape formatting.
+  - Share workbooks.
+  #### Additional Reading
+  - None
+ 

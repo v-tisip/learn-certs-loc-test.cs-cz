@@ -1,0 +1,112 @@
+### YamlMime:Course
+title: Advanced Microsoft Outlook 2016
+metadata:
+  title: 'Course 55179A: Advanced Microsoft Outlook 2016'
+  description: 'Course 55179A: Advanced Microsoft Outlook 2016'
+uid: course.55179
+courseNumber: '55179A'
+timeToComplete:
+  days: 1
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Work with tasks and notes. 
+- skill: Work with signatures and themes.
+- skill: Manage the inbox including filtering, creating search folders, and archiving.
+- skill: Work with multiple accounts.
+learningPartnersLink: https://www.microsoft.com/en-us/learning/partners.aspx
+langs:
+- English
+levels:
+- beginner
+roles:
+- developer
+relatedExams:
+- uid: exam.77-731
+summary: |
+  This Microsoft Outlook training class builds on basic skills in Outlook and teaches students to work with some of the more advanced features of Outlook.
+  
+  #### Audience profile  
+  This course is intended for students who have basic skills with Microsoft Outlook 2016 who want to learn higher level skills or students who want to learn the topics covered in this course in the 2016 interface.
+prerequisitesSection: |
+  Before attending this course, students must have&#58;
+  - Introductory level Microsoft Outlook.
+outlineSection: |
+  ### Module 1: Working with Tasks and Notes
+  This module explains how work with tasks and notes in Microsoft Outlook 2016.
+  #### Lessons
+  - Create a Task
+  - Create a Task
+  - Update a Task
+  - Search for Tasks
+  - Assign a Task
+  - Reply to a Task Request
+  - Track Tasks
+  - Change Your Task View
+  - Exercise&#58; Working with Tasks
+  - Work with Notes
+  
+  ### Module 2: Using Signature and Themes
+  This module explains how to use signatures and themes in Microsoft Outlook 2016.
+  #### Lessons
+  - Create Signatures and Themes
+  - Automatically Add a Signature to Messages
+  - Modify a Signature
+  - Format Outgoing Messages
+  - Create and Apply a Theme
+  - Exercise&#58; Adding a Theme and Signature to Your Messages
+  
+  After completing this module, students will be able to&#58;
+  - Create a signature.
+  - Automatically add a signature to email messages.
+  - Modify a signature.
+  - Create and apply a theme.
+  
+  ### Module 3: Managing Your Inbox
+  This module explains how to manage your inbox in Microsoft Outlook 2016.
+  #### Lessons
+  - Search for Messages
+  - Create Search Folders
+  - Add New Local Folders
+  - Move Messages between Folders
+  - Group Your Mailbox Items
+  - Filter Messages
+  - Organize Messages
+  - Create and Manage Rules
+  - Exercise&#58; Organizing Your Messages
+  
+  After completing this module, students will be able to&#58;
+  - Search for messages.
+  - Create search folders.
+  - Group your mailbox items.
+  - Filter messages.
+  - Organize messages.
+  - Manage your junk mail.
+  - Archive messages.
+  - Create an Outlook data file.
+  - Create a Quick Step to apply multiple actions to emails.
+  - Add protection to outgoing emails.
+  
+  ### Module 4: Working with Multiple Email Accounts
+  This module explains how to work with multiple email accounts in Microsoft Outlook 2016.
+  #### Lessons
+  - Setting Up Multiple Accounts in Outlook
+  - Send Emails from Different Accounts
+  - POP vs. IMAP Email Programs
+  - Exercise&#58; Working with Multiple Email Accounts
+  
+  After completing this module, students will be able to&#58;
+  - Set up multiple accounts in Outlook.
+  - Send emails from different accounts.
+  - Understand differences between POP and IMAP email programs.
+  
+  ### Module 5: New Features in Outlook 2016
+  This module explains how use Groups, the Clutter feature, and improved searching in Outlook 2016.
+  #### Lessons
+  - Groups in Outlook
+  - Improved Searching
+  - The Clutter Feature
+  
+  After completing this module, students will be able to&#58;
+  - Use Groups.
+  - Use improved searching.
+  - Use the Clutter feature.

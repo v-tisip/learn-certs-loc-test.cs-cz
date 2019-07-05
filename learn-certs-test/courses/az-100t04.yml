@@ -1,0 +1,88 @@
+### YamlMime:Course
+title: Configure and Manage Virtual Networks
+metadata:
+  title: 'Course AZ-100T04-A: Configure and Manage Virtual Networks'
+  description: 'Course AZ-100T04-A: Configure and Manage Virtual Networks'
+uid: course.az-100t04
+courseNumber: 'AZ-100T04-A'
+timeToComplete:
+  days: 1
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand virtual networking components, IP addressing, and network routing options. 
+- skill: Implement Azure DNS domains, zones, record types, and resolution methods. 
+- skill: Configure network security groups, service endpoints, logging, and network troubleshooting.
+- skill: Implement site connectivity schemas including VNet-to-VNet connections and virtual network peering.
+learningPartnersLink: https://www.microsoft.com/en-us/learning/partners.aspx
+langs:
+- English
+levels:
+- intermediate
+roles:
+- administrator
+relatedExams:
+- uid: exam.az-100
+summary: |
+  This course teaches IT Professional how to configure and manage Azure virtual networks (VNets). The benefits of moving an infrastructure to the cloud, removing the need to maintain expensive datacenters are an appealing proposition for many small and medium-sized companies. Regardless, once resources are moved to Azure, they require the same networking functionality as an on-premises deployment, and this course deals with the basic network configuration tasks.
+  
+  Students review the basis of IP addressing, with specific emphasis on how public and private IP addressing works in the cloud. Students learn how to configure network routing and how to implement Azure DNS.
+  
+  Securing the network infrastructure is of key importance and students learn how to use Network Security Groups (NSGs) to limit network traffic to resources in a virtual network, by creating security rules that allow or deny inbound or outbound traffic. Students also learn how to use NSG logging to diagnose and troubleshoot network connectivity problems.
+  
+  The course also covers different connectivity scenarios for Azure virtual networks and students learn how to connect virtual networks with VNet-to-VNet VPN gateways and virtual network peering.
+  
+  #### Audience profile
+  This course is for Azure Administrators. Azure Administrators manage the cloud services that span storage, networking, and compute cloud capabilities, with a deep understanding of each service across the full IT lifecycle. They take end-user requests for new cloud applications and make recommendations on services to use for optimal performance and scale, as well as provision, size, monitor and adjust as appropriate. This role requires communicating and coordinating with vendors. Azure Administrators use the Azure Portal and as they become more proficient they use PowerShell and the Command Line Interface.
+prerequisitesSection: |
+  Successful Azure Administrators start this role with experience on operating systems, virtualization, cloud infrastructure, storage structures, and networking.
+outlineSection: |
+  ### Module 1: Azure Virtual Networks
+  In this module, you’ll will be introduced to Azure virtual networks. What are virtual networks and how are they organized? How do you create and configure virtual networks with templates, PowerShell, CLI, or the Azure portal? What is the difference between public, private, static, and dynamic IP addressing? How are system routes, routing tables, and routing algorithms used?
+  #### Lessons
+  - Introducing Virtual Networks
+  - Creating Azure Virtual Networks
+  - Review of IP Addressing
+  - Network Routing
+  
+  After completing this module, students will be able to&#58;
+  - Understand virtual networking components, IP addressing, and network routing options.
+
+  ### Module 2: Azure DNS
+  In this module, you will learn about DNS basics and specifically implementing Azure DNS. In the DNS Basics lesson you will review DNS domains, zones, record types, and resolution methods. In the Azure DNS lesson, we will cover delegation, metrics, alerts, and DNS hosting schemes.
+  #### Lessons
+  - Azure DNS Basics
+  - Implementing Azure DNS
+  
+  After completing this module, students will be able to&#58;
+    - Implement Azure DNS domains, zones, record types, and resolution methods.
+  
+  ### Module 3: Securing Virtual Network Resources
+  In this module, you will learn primarily about Network Security Groups (NSGs) including NSG rules and NSG scenarios. You will also learn how to implement NSGs considering service endpoints, logging, troubleshooting, and other network traffic.
+  #### Lessons
+  - Introduction to Network Security Groups
+  - Implementing Network Security Groups and Service Endpoints
+  
+  After completing this module, students will be able to&#58;
+  - Configure network security groups, service endpoints, logging, and network troubleshooting.
+
+  ### Module 4: Connecting Virtual Networks
+  In this module, you will learn about two specific types of intersite connectivity&#58; VNet-to-VNet connections and VNet Peering. In both cases, you will learn when to choose which connectivity method, and how to implement and configure the method.
+  #### Lessons
+  - Intersite Connectivity (VNet-to-VNet Connections)
+  - Virtual Network Peering
+  
+  After completing this module, students will be able to&#58;
+  - Implement site connectivity schemas including VNet-to-VNet connections and virtual network peering.
+  
+  ### Module 5: Lab - Configure and Manage Virtual Networks
+  This module is provided to give you hands-on experience with the information provided in the course.
+  #### Lab : Configure and Manage Virtual Networks
+  - Prepare the lab environment.
+  - Configure VNet peering.
+  - Implement custom routing.
+  - Validating service chaining.
+  
+  After completing this module, students will be able to&#58;
+  - Configure VNet peering.
+  - Implement custom routing.
+  - Validate service chaining. 

@@ -1,0 +1,258 @@
+### YamlMime:Course
+title: Advanced Microsoft PowerPoint 2016
+metadata:
+  title: 'Course 55177A: Advanced Microsoft PowerPoint 2016'
+  description: 'Course 55177A: Advanced Microsoft PowerPoint 2016'
+uid: course.55177
+courseNumber: '55177A'
+timeToComplete:
+  days: 1
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create customized presentations with templates. 
+- skill: Add special effects.
+- skill: Use the slide, notes, and handout masters.
+- skill: Create, edit, and import charts.
+- skill: Manage hyperlinks.
+- skill: Create custom shows.
+- skill: Secure and share presentations.
+learningPartnersLink: https://www.microsoft.com/en-us/learning/partners.aspx
+langs:
+- English
+levels:
+- beginner
+roles:
+- developer
+relatedExams:
+- uid: exam.77-729
+summary: |
+  This Advanced Microsoft PowerPoint 2016 training class is for PowerPoint 2016 users who want to build upon their basic skills.
+  
+  #### Audience profile  
+  This course is intended for students who have basic skills with Microsoft PowerPoint 2016 who want to learn advanced-level skills or students who want to learn the topics covered in this course in the 2016 interface.
+prerequisitesSection: |
+  Before attending this course, students must have&#58;
+  - Introductory level PowerPoint skills.
+outlineSection: |
+  ### Module 1: Customizing Presentations
+  This module explains how to customize your presentations by adding backgrounds, themes, and other elements to help them stand out and to deliver the right message to your audience.
+  #### Lessons
+  - Applying a Theme
+  - Applying a Background Style
+  - Adding a Footer
+  - Arranging and Printing Sections
+  - Exercise&#58; Adding a Background Image
+  - Exercise&#58; Customizing Your Presentation
+  
+  After completing this module, students will be able to&#58;
+  - Apply a theme. 
+  - Apply a background style. 
+  - Add a footer. 
+  - Add a background image. 
+  - Save a custom theme. 
+  - Arrange and print sections of a presentation.
+  
+  ### Module 2: Presentation Masters
+  This module explains how to work with presentation masters in Microsoft PowerPoint 2016.
+  #### Lessons
+  - Working with the Slide Master
+  - Slide Layouts
+  - Formatting Slide Masters and Layouts
+  - Adding a Watermark to Your Presentation
+  - Adding Slide Numbers Using the Slide Master
+  - Inserting a New Slide Master
+  - Preserving a Slide Master
+  - Modifying the Notes Master
+  - Modifying the Handout Master
+  - Adding a Header and Footer to Notes and Handouts
+  - Exercise&#58; Using the Slide Master
+  
+  After completing this module, students will be able to&#58;
+  - Work with the slide master.
+  - Work with layouts.
+  - Format slide masters and slide layouts.
+  - Add a watermark.
+  - Add slide numbers.
+  - Insert a new slide master.
+  - Preserve a slide master.
+  - Modify the slide master.
+  - Modify the handout master.
+  - Add a header and footer to notes and handouts.
+  
+  ### Module 3: Working with Special Effects
+  This module explains how to work with special effects in Microsoft PowerPoint 2016.
+  #### Lessons
+  - Animating Text and Objects
+  - Working with the Animation Painter
+  - Setting Animation Timing
+  - Animating a Chart
+  - Exercise&#58; Applying Special Effects to a Presentation
+  
+  After completing this module, students will be able to&#58;
+  - Animate text and objects.
+  - Work with the Animation Painter.
+  - Set animation timing.
+  - Animate a chart.
+  
+  ### Module 4: Using SmartArt
+  This module explains how to work with SmartArt in Microsoft PowerPoint 2016.
+  #### Lessons
+  - Inserting SmartArt Graphics
+  - Modifying Smart Art Graphics
+  - Resizing/Repositioning a SmartArt Object
+  - Inserting Text into a SmartArt Object
+  - Formatting Text in a SmartArt Object
+  - Adding Shapes to a SmartArt Object
+  - Ungrouping SmartArt Objects
+  - Exercise&#58; Working with SmartArt
+  
+  After completing this module, students will be able to&#58;
+  - Insert SmartArt graphics into your presentations.
+  - Modify SmartArt graphics.
+  - Resize and reposition SmartArt graphics.
+  - Ad text to a SmartArt object.
+  - Format text within a SmartArt object.
+  - Add shapes to a SmartArt graphic.
+  - Ungroup SmartArt objects.
+  
+  ### Module 5: Multimedia
+  This module explains how to work with multimedia features in Microsoft PowerPoint 2016.
+  #### Lessons
+  - Creating a Photo Album
+  - Adding Captions
+  - Applying a Theme to Your Album
+  - Customizing an Album
+  - Exercise&#58; Creating and Modifying a Photo Album
+  - Inserting Sounds and Video
+  - Editing Media Clips
+  - Exercise&#58; Adding Video to a Presentation
+  
+  After completing this module, students will be able to&#58;
+  - Create a photo album.
+  - Add captions to photos in an album.
+  - Apply a theme to an album.
+  - Customize the photo album layout
+  - Insert sound and video in a presentation.
+  - Edit media clips in PowerPoint.
+  - Change Multimedia settings.
+  
+  ### Module 6: Setting Up the Slide Show
+  This module explains how to work with slide shows in Microsoft PowerPoint 2016.
+  #### Lessons
+  - Setting Up a Custom Show
+  - Creating a Hyperlink
+  - Adding an Action Button
+  - Jumping to Another Presenation
+  - Exercise&#58; Presenting a Custom Show
+  - Using Rehearse Timings
+  - Navigating within a Slide Show
+  - Annotating a Presenation
+  - 'Creating a Presenter-Independent Slide Show'
+  - Setting Up a Slide Show to Repeat Automatically
+  - Exercise&#58; Preparing the Slide Show
+  
+  After completing this module, students will be able to&#58;
+  - Set up a custom slide show.
+  - Create a hyperlink. 
+  - Add an action button. 
+  - Jump to another presentation. 
+  - Rehearse the timing of your presentation. 
+  - Navigate within a slide show. 
+  - Annotate a presentation. 
+  - Create a presenter-independent slide show. 
+  - Set up a slide show to repeat automatically. 
+ 
+  ### Module 7: Outlines and Slides
+  This module explains how to work with outlines and slides in Microsoft PowerPoint 2016.
+  #### Lessons
+  - Exporting Notes and Handouts to Word
+  - Exporting an Outline to Word
+  - Saving a Presetnation as an Outline
+  - Jumping to Another Presenation
+  - Exercise&#58; Exporting an Outline to Word
+  
+  After completing this module, students will be able to&#58;
+  - Export notes and handouts to Word documents.
+  - Export an outline to a Word document.
+  - Save your presentation as an outline. 
+  - Save a slide in your presentation as a graphic.
+  
+  ### Module 8: Managing Multiple Presentations
+  This module explains how manage multiple presentations in Microsoft PowerPoint 2016.
+  #### Lessons
+  - Merging Multiple Presentations
+  - Reusing Slides from Other Presentations
+  - Viewing Multiple Presentations
+  - Tracking Changes in PowerPoint
+  - Exercise&#58; Reviewing Changes in PowerPoint
+  
+  After completing this module, students will be able to&#58;
+  - Merge multiple presentations.
+  - Reuse slides from other presentations.
+  - View multiple presentations. 
+  - Track and manage changes in PowerPoint.
+  
+  ### Module 9: Sharing and Securing a Presentation
+  This module explains how to share and secure a presentation.
+  #### Lessons
+  - Sharing a Presentation with a Remote Audience
+  - Embedding the Fonts in a Presentation
+  - Inspecting the Presentation
+  - Packaging a Presentation for CD
+  - Using the Power Point Viewer
+  - Exercise&#58; Sharing a Presentation
+  - Encrypting a Presentation
+  - Adding a Digital Signature
+  - Marking a Presentation as Final
+  - Granting Permissions
+  - Compressing Pictures
+  - Sending a Presentation in PDF format
+  - Exercise&#58; Securing a Presentation
+  
+  After completing this module, students will be able to&#58;
+  - Share your presentation with a remove audience.
+  - Embed fonts in a presentation.
+  - Inspect the presentation.
+  - Package your presentation for a CD. 
+  - About PowerPoint Viewer. 
+  - Save your presentation for web viewing.
+  - Encrypt your presentation.
+  - Add a digital signature to your presentation.
+  - Grant permissions.
+  - Compress the pictures in your file.
+  - Send your presentation in PDF format.
+  
+  ### Module 10: Features New since PowerPoint 2013
+  This module explains how to use PowerPoint comments, motions paths, and the eye dropper.
+  #### Lessons
+  - Using Comments
+  - Exercise&#58; Using the Comments Feature
+  - Motion Path Changes
+  - Creating Custom Color with the Eyedropper
+  
+  After completing this module, students will be able to&#58;
+  - Use PowerPoint comments.
+  - Use Motion Paths.
+  - Use the Eyedropper.
+  
+  ### Module 11: New Features in PowerPoint 2016
+  This module explains how to use the Merge Shapes and Ink Equation features.
+  #### Lessons
+  - Using Comments
+  - Exercise&#58; Using the Comments Feature
+  - Motion Path Changes
+  - Creating Custom Color with the Eyedropper
+  
+  After completing this module, students will be able to&#58;
+  - Use PowerPoint comments.
+  - Use Motion Paths.
+  - Use the Eyedropper.
+  
+  ### Module 12: Cloud
+  This module explains how to use the cloud in PowerPoint.
+  #### Lessons
+  - Using the Cloud
+  - Exercise&#58; Using the Cloud
+  
+  After completing this module, students will be able to&#58;
+  - Use the Cloud in PowerPoint 2016.

@@ -1,0 +1,40 @@
+### YamlMime:Examination
+title: Microsoft Azure Fundamentals
+metadata:
+  title: 'Exam AZ-900: Microsoft Azure Fundamentals'
+  description: 'Exam AZ-900: Microsoft Azure Fundamentals'
+uid: exam.az-900
+displayName: AZ-900
+summary: This exam is designed for candidates looking to demonstrate foundational level knowledge of cloud services and how those services are provided with Microsoft Azure. The exam is intended for candidates with non-technical backgrounds, such as those involved in selling or purchasing cloud based solutions and services or who have some involvement with cloud based solutions and services, as well as those with a technical background who have a need to validate their foundational level knowledge around cloud services. Technical IT experience is not required however some general IT knowledge or experience would be beneficial.
+subTitle: 'This exam measures your ability to understand the following concepts: cloud concepts; core Azure services; security, privacy, compliance, and trust; and Azure pricing and support.'
+iconUrl: /media/learn/certification/exam.svg
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=AZ-900&examname=Exam%20AZ-900%3A%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Flearning%2Fexam-az-900.aspx
+langs:
+- English
+- Japanese
+- Chinese (Simplified)
+- Korean
+levels:
+- beginner
+skills:
+- Understand cloud concepts
+- Understand core Azure services
+- Understand security, privacy, compliance, and trust
+- Understand Azure pricing and support
+roles:
+- developer
+- administrator
+products:
+- azure
+courses:
+- uid: course.az-900t01
+paths:
+- uid: learn-xamarin.customize-your-xamarin-forms-apps
+relatedCertifications:
+- related:
+    uid: certification.azure-fundamentals
+resources:
+- title: Guides to Role-based Certifications
+  description: Explore all certifications in a concise certification guide or the Role-based Certification Roadmap poster.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI

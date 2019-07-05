@@ -1,0 +1,44 @@
+### YamlMime:Certification
+title: Azure Administrator Associate
+metadata:
+  title: 'Microsoft Certified: Azure Administrator Associate'
+  description: 'Microsoft Certified: Azure Administrator Associate'
+uid: certification.azure-administrator-associate
+iconUrl: /media/learn/certification/certification-advanced.svg
+summary: |
+  Azure Administrators implement, monitor, and maintain Microsoft Azure solutions, including major services related to compute, storage, network, and security. [Learn more about changes to this certification that took effect on May 1, 2019](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375217).
+subTitle: Azure Administrators implement, monitor, and maintain Microsoft Azure solutions, including major services related to compute, storage, network, and security
+levels:
+- intermediate
+skills:
+- Manage Azure subscriptions and resources
+- Implement and manage storage
+- Deploy and manage virtual machines (VMs)
+- Configure and manage virtual networks
+- Manage identities
+roles:
+- developer
+- administrator
+products:
+- azure
+courses:
+- uid: course.az-100t02
+paths:
+- uid: learn-xamarin.customize-your-xamarin-forms-apps
+prerequisites:
+- uid: certification.azure-fundamentals
+  isOptional: true
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+exams:
+- uid: exam.az-102
+- uid: exam.az-103
+resources:
+- title: Training guide
+  description: 'Discover training resources to become a Microsoft Certified: Azure Administrator Associate'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+- title: Guides to Role-based Certifications
+  description: Explore all certifications in a concise certification guide or the Role-based Certification Roadmap poster.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay

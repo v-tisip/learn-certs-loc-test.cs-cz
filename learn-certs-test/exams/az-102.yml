@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Microsoft Azure Administrator Certification Transition
+metadata:
+  title: 'Exam AZ-102: Microsoft Azure Administrator Certification Transition'
+  description: 'Exam AZ-102: Microsoft Azure Administrator Certification Transition'
+uid: exam.az-102
+displayName: AZ-102
+summary: |
+  This exam is intended only for those candidates who have taken Exam 70-533&#58; Implementing Microsoft Azure Infrastructure Solutions. If you have not taken Exam 533, you will not earn a certification by taking this exam.
+  
+  The transition exam is intended for people who have already demonstrated skills in the content domain by passing the existing exam(s) that the new role-based certification exams will be replacing. They cover the delta between the current certification and what we expect people who earn the new certification to be able to do. We don’t want to retest people on the same content where they have already demonstrated competence by passing the existing exam.
+  
+  Transition exams cover net new content, content that wasn’t covered in enough depth, and content on aspects of the technology that have likely changed since someone took the exam. As a result, the transition exam is not shorter than a typical exam but more focused on the key tasks and skills that were not assessed in the existing exam or certification that is being replaced.
+  
+  Candidates for this exam are Azure Administrators who manage cloud services that span storage, security, networking, and compute cloud capabilities. Candidates have a deep understanding of each service across the full IT lifecycle, and take requests for infrastructure services, applications, and environments. They make recommendations on services to use for optimal performance and scale, as well as provision, size, monitor, and adjust resources as appropriate.
+  
+  Candidates for this exam should have proficiency in using PowerShell and the Command Line Interface. Candidates should have a basic familiarity or knowledge of Azure Portal, ARM templates, operating systems, virtualization, cloud infrastructure, storage structures, and networking.
+
+subTitle: 'This exam is intended only for candidates who have taken Exam 70-533: Implementing Microsoft Azure Infrastructure Solutions. If you have not taken Exam 533, you will not earn a certification by taking this exam.'
+iconUrl: /media/learn/certification/exam.svg
+practiceTestUrl: https://www.mindhub.com/product-p/mu-az-102_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=AZ-102&examname=Exam%20AZ-102%3A%20Microsoft%20Azure%20Administrator%20Certification%20Transition&returnToLearningUrl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Flearning%2Fexam-az-102.aspx
+retirementDate: '06/30/2019'
+langs:
+- English
+- Japanese
+levels:
+- beginner
+skills:
+- 'From AZ-100: Microsoft Azure Infrastructure and Deployment'
+- 'From AZ-101: Microsoft Azure Integration and Security'
+roles:
+- developer
+- administrator
+products:
+- azure
+relatedExams:
+- uid: exam.az-103
+courses:
+- uid: course.ms-100t02
+paths:
+- uid: learn-xamarin.customize-your-xamarin-forms-apps
+relatedCertifications:
+- related:
+    uid: certification.azure-administrator-associate
+resources:
+- title: Guides to Role-based Certifications
+  description: Explore all certifications in a concise certification guide or the Role-based Certification Roadmap poster.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Training guide
+  description: 'Discover training resources to become a Microsoft Certified: Azure Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay
